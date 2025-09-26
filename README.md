@@ -1,4 +1,4 @@
-# 👩‍💻 Julia Oliveira  
+# 👩‍💻 Julia Dias  
 
 🎓 Estudante de **Ciência da Computação** 
 💼 Estagiária em **HyperAutomation (RPA)**  
