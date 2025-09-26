@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👩‍💻 Julia Oliveira  
 
-<!--
-**juliaOdias/juliaOdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Ciência da Computação** 
+💼 Estagiária em **HyperAutomation (RPA)**  
+🔎 Interesses: **IA, Machine Learning, Visão Computacional, Análise de Dados**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Sobre mim  
+- Sempre estudando e explorando novas tecnologias  
+- Gosto de transformar ideias em projetos práticos  
+- Determinação é minha palavra-chave 🚀  
+
+---
+
+## 🛠️ Tecnologias
+- **Linguagens:** Python | PHP | JavaScript | HTML | CSS | SQL  
+- **Áreas:** RPA | Data Science | Machine Learning | Desenvolvimento Web | QA
+
+---
+
+## 📫 Contato  
+- [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/julia-de-oliveira-dias-3ab597254/))  
